@@ -3,9 +3,12 @@
 Configurando o Github no VsCode
 
 1 - Instale o Vscode
+
 2 - Baixa as Extensões:
-    GitHub Repositories
-    GitHub Pull Requests and Issues
+
+    'GitHub Repositories'
+    
+    'GitHub Pull Requests and Issues'
 
 3 - Cria uma conta do https://github.com/
 
